@@ -1,8 +1,10 @@
-Hi,
+Hi there 👋 Thanks for stopping by 🏃
 
-I'm a data scientist with 3 years of professional experience. I recently completed Le Wagon's intensive Data Science & AI Bootcamp where I learned new skills including project experience in the fields of Deep Learning and Generative AI and improved myself as a data scientist. I'm looking forward to the next step in my career where I can contribute my knowledge and creativity to data-driven problem solving.
-
-I use this space to share some of my own projects that I complete based on publicly available datasets to showcase what I can provide to a data team.
+💻 I'm a data scientist with 3 years of professional experience 
+💪 Experienced in data visualization, machine learning and dashboarding
+🎓 Completed Le Wagon's intensive Data Science & AI Bootcamp 
+🌱 Looking forward to the next challenge in my career to contribute my skills
+📄 Here I share some of my own projects to showcase what I can provide to a data team
 
 ---
 
