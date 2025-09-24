@@ -1,9 +1,13 @@
 Hi there 👋 Thanks for stopping by 🏃
 
 💻 I'm a data scientist with 3 years of professional experience 
+
 💪 Experienced in data visualization, machine learning and dashboarding
+
 🎓 Completed Le Wagon's intensive Data Science & AI Bootcamp 
-🌱 Looking forward to the next challenge in my career to contribute my skills
+
+🔍 Looking forward to the next challenge in my career to contribute my skills
+
 📄 Here I share some of my own projects to showcase what I can provide to a data team
 
 ---
