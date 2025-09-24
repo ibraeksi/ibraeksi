@@ -41,3 +41,5 @@ I use this space to share some of my own projects that I complete based on publi
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibraeksi&theme=tokyonight&count_private=true&layout=compact)
