@@ -4,7 +4,7 @@ Hi there 👋 Thanks for stopping by 🙌
 
 💪 Experienced in data cleaning, data visualization, dashboarding and machine learning
 
-🎓 Completed Le Wagon's intensive Data Science & AI Bootcamp to get practical experience on MLOps and GenAI
+🎓 Completed Le Wagon's intensive Data Science & AI Bootcamp
 
 🔍 Looking forward to the next challenge in my career to contribute my skills
 
