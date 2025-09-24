@@ -12,4 +12,4 @@ I use this space to share some of my own projects that I complete based on publi
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 | Sector  | Title                                    | Technologies                           |
 |---------|------------------------------------------|----------------------------------------|
-| Finance | [Brand Strategy Assistant](brand_strategy_assistant) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=flat-square&logo=scikitlearn) |
+| Finance | [Brand Strategy Assistant](https://github.com/ibraeksi/Finance/tree/main/brand_strategy_assistant) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=flat-square&logo=scikitlearn) |
