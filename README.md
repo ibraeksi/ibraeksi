@@ -1,8 +1,8 @@
-Hi there 👋 Thanks for stopping by 🏃
+Hi there 👋 Thanks for stopping by 🙌
 
 💻 I'm a data scientist with 3 years of professional experience 
 
-💪 Experienced in data visualization, machine learning and dashboarding
+💪 Experienced in data visualization, dashboarding and machine learning
 
 🎓 Completed Le Wagon's intensive Data Science & AI Bootcamp 
 
