@@ -1,10 +1,10 @@
 Hi there 👋 Thanks for stopping by 🙌
 
-💻 I'm a data scientist with 3 years of professional experience 
+💻 I'm a data scientist with about 3 years of professional experience 
 
-💪 Experienced in data visualization, dashboarding and machine learning
+💪 Experienced in data cleaning, data visualization, dashboarding and machine learning
 
-🎓 Completed Le Wagon's intensive Data Science & AI Bootcamp 
+🎓 Completed Le Wagon's intensive Data Science & AI Bootcamp to get practical experience on MLOps and GenAI
 
 🔍 Looking forward to the next challenge in my career to contribute my skills
 
